@@ -1,7 +1,8 @@
 # 여기는?
- * 강의용 파이썬 노트븍 모음
+ * 강의용 파이썬 노트북 모음
 # prefix
  * Edu - 설명
  * Example - Keras 프로젝트
  * PyTorch - PyTorch 프로젝트
-https://drive.google.com/file/d/10mMpErH13U01fMTXQSlQR9ZWDFGxCRsg/view?usp=sharing
+# 저작권
+ * 당연히 김기석 본인에게 있으나 실시간강의/오프라인강의/학습 용도로 자유롭게 쓰시되 출처만 밝혀주시면 감사하겠습니다. (녹화되는 동영상 강의 제외)
